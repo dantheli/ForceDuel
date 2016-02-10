@@ -1,0 +1,98 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "870B3B40FDD7DAEE922E3F6813B8222522EF9ADF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "89F586C8E20CC26ECD463091446BE465CFDA25C5" : 0,
+    "6ED00B120D523CB17382C2ABE3376C986B005574" : 0,
+    "284B7ADA9926426DE50AFB3FBD1CB5CA2B267C2A" : 0,
+    "46DCD7212C97D8B1B9B9CEEA84A9088875C01513" : 0,
+    "4F216E5B036F29BE7CB6E4ACCF99E572AC4B64D5" : 0,
+    "E3ABDA44C4BD4CBE5D8A32F32E44287FF1F44A9F" : 0,
+    "3CAAECAF2C5B8066B0A6438BD2C21DBFF3725633" : 0,
+    "F6066B28892EE9D428ADCF51BAC4BE2EB3C696ED" : 0,
+    "C60D260BACC557DF6BB2E4C24926C5ECE7E69163" : 0,
+    "870B3B40FDD7DAEE922E3F6813B8222522EF9ADF" : 0,
+    "FF952EE94C4532FBC9EA240632204894EC32FD39" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "52CE81C8-FA4E-4004-9E37-C3C76783A68A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "89F586C8E20CC26ECD463091446BE465CFDA25C5" : "Duck\/",
+    "6ED00B120D523CB17382C2ABE3376C986B005574" : "CUAppDev\/eatery\/",
+    "284B7ADA9926426DE50AFB3FBD1CB5CA2B267C2A" : "EatOwl\/",
+    "46DCD7212C97D8B1B9B9CEEA84A9088875C01513" : "PodMates\/",
+    "4F216E5B036F29BE7CB6E4ACCF99E572AC4B64D5" : "Body\/",
+    "E3ABDA44C4BD4CBE5D8A32F32E44287FF1F44A9F" : "CUAppDev\/DiningStack-dantheli\/",
+    "3CAAECAF2C5B8066B0A6438BD2C21DBFF3725633" : "CUAppDev\/Training\/Asteroids\/",
+    "F6066B28892EE9D428ADCF51BAC4BE2EB3C696ED" : "Language\/",
+    "C60D260BACC557DF6BB2E4C24926C5ECE7E69163" : "Piano\/",
+    "870B3B40FDD7DAEE922E3F6813B8222522EF9ADF" : "PressureBang\/",
+    "FF952EE94C4532FBC9EA240632204894EC32FD39" : "PodIssues\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ForceDuel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ForceDuel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dantheli\/EatOwl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "284B7ADA9926426DE50AFB3FBD1CB5CA2B267C2A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dantheli\/Asteroids.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3CAAECAF2C5B8066B0A6438BD2C21DBFF3725633"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/dannyzl\/podmates.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "46DCD7212C97D8B1B9B9CEEA84A9088875C01513"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/dannyzl\/body.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4F216E5B036F29BE7CB6E4ACCF99E572AC4B64D5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cuappdev\/eatery.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6ED00B120D523CB17382C2ABE3376C986B005574"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dantheli\/eatery.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6ED00B120D523CB17382C2ABE3376C986B005574"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dantheli\/ForceDuel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "870B3B40FDD7DAEE922E3F6813B8222522EF9ADF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dantheli\/Duck.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89F586C8E20CC26ECD463091446BE465CFDA25C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dantheli\/PianoWriter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C60D260BACC557DF6BB2E4C24926C5ECE7E69163"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dantheli\/DiningStack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3ABDA44C4BD4CBE5D8A32F32E44287FF1F44A9F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dantheli\/ChineseKoreanWordOfTheDay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F6066B28892EE9D428ADCF51BAC4BE2EB3C696ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/dannyzl\/podissues.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FF952EE94C4532FBC9EA240632204894EC32FD39"
+    }
+  ]
+}
